@@ -104,7 +104,7 @@ pexpect==4.6.0
 phonenumbers==8.12.9
 pickleshare==0.7.5
 pikepdf==1.17.3
-Pillow==8.2.0
+Pillow==4.0.0
 polib==1.1.0
 prometheus-client==0.6.0
 prompt-toolkit==2.0.10
@@ -140,7 +140,7 @@ requests==2.20.0
 requests-mock==1.7.0
 requests-toolbelt==0.9.1
 roman==2.0.0
-rsa==4.7
+rsa==4.0
 s3transfer==0.3.3
 scipy==0.19.1
 SecretStorage==2.3.1
@@ -163,7 +163,7 @@ traitlets==4.3.2
 Unidecode==1.0.22
 unittest2==1.1.0
 uritemplate==3.0.0
-urllib3==1.26.5
+urllib3==1.19.1
 urwid==2.0.1
 vatnumber==1.2
 vobject==0.9.3
