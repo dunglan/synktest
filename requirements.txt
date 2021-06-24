@@ -140,7 +140,7 @@ requests==2.20.0
 requests-mock==1.7.0
 requests-toolbelt==0.9.1
 roman==2.0.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.3.3
 scipy==0.19.1
 SecretStorage==2.3.1
